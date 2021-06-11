@@ -10,6 +10,7 @@ Food Delivery System
 
 - node.js
 - express.js
+- React.js
 
 ### Project highlights
 
@@ -19,3 +20,6 @@ Food Delivery System
 - Custom middleware functions
 - Error Handling
 
+### Image
+
+![GrubDash](https://github.com/doshid20/GrubDash/blob/main/grubDash.png)
